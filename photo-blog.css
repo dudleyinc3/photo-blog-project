@@ -1,0 +1,21 @@
+/*float left*/
+
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+
+hr {
+	width: 96.4%;
+	border-top-width: 3px;
+}
+
+h3 {
+	 margin-left: 1.66%;
+	font-family: raleway;
+	font-weight: 800;
+	font-size: 23px;
+	text-transform: uppercase;
+
+}
